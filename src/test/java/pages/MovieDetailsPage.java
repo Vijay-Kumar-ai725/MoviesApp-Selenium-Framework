@@ -68,9 +68,8 @@ public class MovieDetailsPage {
         PageFactory.initElements(Driver, this);
     }
     public void click1() {
-        wait.until(ExpectedConditions.elementToBeClickable(
-                By.xpath("//div[@class='App']/div[1]")
-        )).click();
+        By duneMovie = By.cssSelector("img[alt='Dune']");
+        wait.until(ExpectedConditions.elementToBeClickable(duneMovie)).click();
     }
 
     public String MovieName(){
