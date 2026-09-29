@@ -17,6 +17,7 @@ public class LoginPageTest {
         Driver = new ChromeDriver();
         Driver.get("https://qamoviesapp.ccbp.tech");
         loginpage = new LoginPage(Driver);
+        // poll scm
     }
     @AfterMethod
     public void tearDown() {

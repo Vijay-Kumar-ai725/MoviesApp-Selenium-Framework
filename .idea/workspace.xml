@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="939645cc-2518-47bb-b760-cd9c17894b83" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginPageTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vijay-Kumar-ai&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vijay-Kumar-ai725/MoviesApp-Selenium-Framework.git&quot;,
+    &quot;accountId&quot;: &quot;2191dea9-6320-415a-a17c-00225144e7c6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3DetaCRbCa0dsdaamZ6SV8LKh0F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.AccountPageTest.AccountFunctionality.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AccountPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Gedel/IdeaProjects/MoviesAppTest/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HeaderSectionPageTest.HeaderSectionUI.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HeaderSectionPageTest.WebsiteLogo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HeaderSectionPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HeaderSectionPageTest.testNavbarNavigation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HeaderSectionPageTest.visibility.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTest.ContactSection.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTest.HeadingTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTest.MovieSection.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTest.PlayButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTest.moviesSection.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.EmptyInputFields.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.LoginFunctionalityWithInvalidCredentials.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.LoginWithValidCredentials.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.emptyPASSWORD.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.emptyUSERNAME.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.loginFunctionalityWithInvalidCredentials.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.validCred.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MovieDetailsPageTest.HomeMovieFunctionality.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MovieDetailsPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PopularPageTest.PopularPageUI.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PopularPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SearchPageTest.SearchFunctionality.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SearchPageTest.SearchFunctionalityFail.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SearchPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.MovieDetailsPageTest.HomeMovieFunctionality">
+    <configuration name="C:/Users/Gedel/IdeaProjects/MoviesAppTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MoviesAppTest" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.MovieSection" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MoviesAppTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HomePageTest" />
+      <option name="METHOD_NAME" value="MovieSection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieDetailsPageTest.HomeMovieFunctionality" type="TestNG" temporary="true">
+      <module name="MoviesAppTest" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MovieDetailsPageTest" />
+      <option name="METHOD_NAME" value="HomeMovieFunctionality" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopularPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MoviesAppTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PopularPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopularPageTest.PopularPageUI" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MoviesAppTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PopularPageTest" />
+      <option name="METHOD_NAME" value="PopularPageUI" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.MovieDetailsPageTest.HomeMovieFunctionality" />
+      <item itemvalue="TestNG.C:/Users/Gedel/IdeaProjects/MoviesAppTest/testng.xml" />
+      <item itemvalue="TestNG.HomePageTest.MovieSection" />
+      <item itemvalue="TestNG.PopularPageTest" />
+      <item itemvalue="TestNG.PopularPageTest.PopularPageUI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MovieDetailsPageTest.HomeMovieFunctionality" />
+        <item itemvalue="TestNG.C:/Users/Gedel/IdeaProjects/MoviesAppTest/testng.xml" />
+        <item itemvalue="TestNG.HomePageTest.MovieSection" />
+        <item itemvalue="TestNG.PopularPageTest.PopularPageUI" />
+        <item itemvalue="TestNG.PopularPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="939645cc-2518-47bb-b760-cd9c17894b83" name="Changes" comment="" />
+      <created>1778654427159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778654427159</updated>
+    </task>
+    <servers />
+  </component>
+</project>
