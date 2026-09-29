@@ -67,9 +67,10 @@ public class MovieDetailsPage {
         this.wait = new WebDriverWait(Driver,Duration.ofSeconds(10));
         PageFactory.initElements(Driver, this);
     }
-    public void click1(){
-        wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//div[@class='App']/div[1]")));
-        first.click();
+    public void click1() {
+        wait.until(ExpectedConditions.elementToBeClickable(
+                By.xpath("//div[@class='App']/div[1]")
+        )).click();
     }
 
     public String MovieName(){
