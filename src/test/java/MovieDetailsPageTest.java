@@ -38,6 +38,7 @@ public class MovieDetailsPageTest {
     @Test(priority = 1)
     public void HomeMovieFunctionality() {
         movieDetailsPage.click1();
+        System.out.println("CURRENT URL: " + Driver.getCurrentUrl());
         Assert.assertEquals(movieDetailsPage.MovieName(), "Dune");
         Assert.assertEquals(movieDetailsPage.Duration(), "2h 35m");
         Assert.assertEquals(movieDetailsPage.Rating(), "U/A");
