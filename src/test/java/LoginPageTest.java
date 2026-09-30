@@ -13,7 +13,6 @@ import java.sql.Driver;
 public class LoginPageTest {
     WebDriver Driver;
     LoginPage loginpage;
-    //NICE
     @BeforeMethod
     public void Setup(){
         Driver = new ChromeDriver();
@@ -89,5 +88,6 @@ public class LoginPageTest {
         Driver.close();
     }
 
-
+//NICE
+    // GitHub Webhook test 2
 }
