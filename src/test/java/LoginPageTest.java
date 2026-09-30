@@ -4,6 +4,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
 
+
 import org.testng.Assert;
 import pages.LoginPage;
 
@@ -12,6 +13,7 @@ import java.sql.Driver;
 public class LoginPageTest {
     WebDriver Driver;
     LoginPage loginpage;
+    //NICE
     @BeforeMethod
     public void Setup(){
         Driver = new ChromeDriver();
