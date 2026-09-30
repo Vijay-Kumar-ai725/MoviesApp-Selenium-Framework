@@ -3,13 +3,14 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Listeners;
 
 
 import org.testng.Assert;
 import pages.LoginPage;
 
 import java.sql.Driver;
-
+@Listeners(ScreenshotListener.class)
 public class LoginPageTest {
     WebDriver Driver;
     LoginPage loginpage;

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="939645cc-2518-47bb-b760-cd9c17894b83" name="Changes" comment="" />
+    <list default="true" id="939645cc-2518-47bb-b760-cd9c17894b83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ScreenshotListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginPageTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +70,7 @@
     &quot;TestNG.HomePageTest.moviesSection.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.LoginPageTest.EmptyInputFields.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.LoginPageTest.LoginFunctionalityWithInvalidCredentials.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPageTest.LoginPageUi.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.LoginPageTest.LoginTest.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.LoginPageTest.LoginWithValidCredentials.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.LoginPageTest.emptyPASSWORD.executor&quot;: &quot;Run&quot;,
@@ -81,10 +86,13 @@
     &quot;TestNG.SearchPageTest.SearchFunctionalityFail.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.SearchPageTest.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.MovieDetailsPageTest.HomeMovieFunctionality">
+  <component name="RunManager" selected="TestNG.LoginPageTest.LoginPageUi">
     <configuration name="C:/Users/Gedel/IdeaProjects/MoviesAppTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MoviesAppTest" />
       <shortenClasspath name="NONE" />
@@ -117,6 +125,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MoviesAppTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.LoginPageUi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MoviesAppTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginPageTest" />
+      <option name="METHOD_NAME" value="LoginPageUi" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MovieDetailsPageTest.HomeMovieFunctionality" type="TestNG" temporary="true">
       <module name="MoviesAppTest" />
       <shortenClasspath name="NONE" />
@@ -140,43 +171,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PopularPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MoviesAppTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PopularPageTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PopularPageTest.PopularPageUI" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MoviesAppTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PopularPageTest" />
-      <option name="METHOD_NAME" value="PopularPageUI" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="TestNG.LoginPageTest" />
+      <item itemvalue="TestNG.LoginPageTest.LoginPageUi" />
       <item itemvalue="TestNG.MovieDetailsPageTest.HomeMovieFunctionality" />
       <item itemvalue="TestNG.C:/Users/Gedel/IdeaProjects/MoviesAppTest/testng.xml" />
       <item itemvalue="TestNG.HomePageTest.MovieSection" />
-      <item itemvalue="TestNG.PopularPageTest" />
-      <item itemvalue="TestNG.PopularPageTest.PopularPageUI" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginPageTest.LoginPageUi" />
+        <item itemvalue="TestNG.LoginPageTest" />
         <item itemvalue="TestNG.MovieDetailsPageTest.HomeMovieFunctionality" />
         <item itemvalue="TestNG.C:/Users/Gedel/IdeaProjects/MoviesAppTest/testng.xml" />
         <item itemvalue="TestNG.HomePageTest.MovieSection" />
-        <item itemvalue="TestNG.PopularPageTest.PopularPageUI" />
-        <item itemvalue="TestNG.PopularPageTest" />
       </list>
     </recent_temporary>
   </component>
